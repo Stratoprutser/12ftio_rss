@@ -1,4 +1,4 @@
-# 12ftio_rss creates an rss feed for websites with a paywall which can be overruled with 12ft.io. Just enter the websites' rss feed, and subscribe to the resulting feed.
+This script creates an rss feed for websites with a paywall which can be overruled with 12ft.io. Just enter the websites' rss feed, and subscribe to the resulting feed.
 
 Recquired: a server running php and simplepie.
 
