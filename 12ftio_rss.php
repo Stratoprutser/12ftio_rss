@@ -14,8 +14,6 @@ if (trim($url)=="")
 	die();
 }
 
-$url="https://wordpress.org/feed";
-
 $rss = new SimplePie();
 $rss->set_cache_location('/var/www/cache/simplepie');
 
